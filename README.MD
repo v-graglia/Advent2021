@@ -1,1 +1,1 @@
-## Advent of Code 2021 Day Repo
+# Advent of Code Repo
